@@ -186,7 +186,7 @@ The visualization toolkit provides several key insights into molecular attention
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 [↑ Return to Table of Contents](#table-of-contents)
 
