@@ -5,19 +5,6 @@ A toolkit for analyzing and visualizing attention mechanisms in transformer mode
 ![Front Image](img/position.png)
 ![Front Image](img/front.png)
 
-## Interactive Artifacts
-
-### Head Specialization Analysis
-- **Focus Specialization**: [attention_viz_outputs/head_specialization/focus_specialization_5388.html](attention_viz_outputs/head_specialization/focus_specialization_5388.html)
-
-### 3D Visualizations
-- **Attention Landscape**: [attention_viz_outputs/3d_visualizations/attention_landscape_sample_5388.html](attention_viz_outputs/3d_visualizations/attention_landscape_sample_5388.html)
-  
-- **Head Specialization 3D**: [attention_viz_outputs/3d_visualizations/head_specialization_3d_5388.html](attention_viz_outputs/3d_visualizations/head_specialization_3d_5388.html)
-
-### Animated Visualizations
-- **Attention Flow Animation**: [attention_viz_outputs/animations/attention_flow_5388.gif](attention_viz_outputs/animations/attention_flow_5388.gif)
-- 
 ## Table of Contents
 
 1. [Installation](#installation)
