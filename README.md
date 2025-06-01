@@ -7,22 +7,41 @@ A toolkit for analyzing and visualizing attention mechanisms in transformer mode
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Dataset](#dataset)
-3. [Model Architecture](#model-architecture)
-4. [Training Pipeline](#training-pipeline)
-5. [Visualization Features](#visualization-features)
+1. [Interactive Artifacts](#interactive-artifacts)
+2. [Installation](#installation)
+3. [Dataset](#dataset)
+4. [Model Architecture](#model-architecture)
+5. [Training Pipeline](#training-pipeline)
+6. [Visualization Features](#visualization-features)
    - [5.1. Molecular Clustering Analysis](#51-molecular-clustering-analysis)
    - [5.2. 3D Attention Landscape](#52-3d-attention-landscape)
    - [5.3. Attention Focus Analysis](#53-attention-focus-analysis)
    - [5.4. Position-wise Attention Analysis](#54-position-wise-attention-analysis)
    - [5.5. Head Specialization Analysis](#55-head-specialization-analysis)
    - [5.6. Dynamic Attention Flow](#56-dynamic-attention-flow)
-6. [Usage](#usage)
-7. [Results](#results)
-8. [License](#license)
-9. [Citation](#citation)
-10. [Acknowledgments](#acknowledgments)
+7. [Usage](#usage)
+8. [Results](#results)
+9. [License](#license)
+10. [Citation](#citation)
+11. [Acknowledgments](#acknowledgments)
+
+---
+
+## Interactive Artifacts
+Head Specialization Analysis
+
+Focus Specialization: attention_viz_outputs/head_specialization/focus_specialization_5388.html
+
+3D Visualizations
+
+Attention Landscape: attention_viz_outputs/3d_visualizations/attention_landscape_sample_5388.html
+Head Specialization 3D: attention_viz_outputs/3d_visualizations/head_specialization_3d_5388.html
+
+Animated Visualizations
+
+Attention Flow Animation: attention_viz_outputs/animations/attention_flow_5388.gif
+
+[↑ Return to Table of Contents](#table-of-contents)
 
 ---
 
