@@ -2,6 +2,7 @@
 
 A toolkit for analyzing and visualizing attention mechanisms in transformer models applied to molecular data, providing insights into how models process chemical information and molecular representations.
 
+![Front Image](img/position.png)
 ![Front Image](img/front.png)
 
 ## Table of Contents
