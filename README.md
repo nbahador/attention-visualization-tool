@@ -28,18 +28,14 @@ A toolkit for analyzing and visualizing attention mechanisms in transformer mode
 ---
 
 ## Interactive Artifacts
-Head Specialization Analysis
 
-Focus Specialization: attention_viz_outputs/head_specialization/focus_specialization_5388.html
+[Focus Specialization](https://nbahador.github.io/attention-visualization-tool/attention_viz_outputs/head_specialization/focus_specialization_5388.html)
 
-3D Visualizations
+[Attention Landscape](https://nbahador.github.io/attention-visualization-tool/attention_viz_outputs/3d_visualizations/attention_landscape_sample_5388.html)
 
-Attention Landscape: attention_viz_outputs/3d_visualizations/attention_landscape_sample_5388.html
-Head Specialization 3D: attention_viz_outputs/3d_visualizations/head_specialization_3d_5388.html
+[Head Specialization 3D](https://nbahador.github.io/attention-visualization-tool/attention_viz_outputs/3d_visualizations/head_specialization_3d_5388.html)
 
-Animated Visualizations
-
-Attention Flow Animation: attention_viz_outputs/animations/attention_flow_5388.gif
+[Attention Flow Animation](https://nbahador.github.io/attention-visualization-tool/attention_viz_outputs/animations/attention_flow_5388.gif)
 
 [↑ Return to Table of Contents](#table-of-contents)
 
